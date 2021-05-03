@@ -15,6 +15,3 @@ Telegram id:
 
 * [@ReyhaneAbthai](https://t.me/ReyhaneAbtahi)
 
-## License
-[MIT](https://github.com/fark00/Serial-Transmitter-Receiver/blob/master/LICENSE)
-&#0169; 
